@@ -1,14 +1,22 @@
+# 프로젝트 개요
+수업 시간에 배운 **Openframeworks**와 **Waterfall** 프로젝트를 응용하여  
+랜덤으로 선택된 점에서 물줄기가 내려오면, 이를 밑에 선을 움직여서  
+점이 선 안에 위치하도록 하는 간단한 게임을 개발하였다.  
+시간이 지날수록 점이 떨어지는 속도가 증가하고 이에따라 얻는 점수도 증가한다.  
 
+<img src="https://user-images.githubusercontent.com/63230463/152851396-89e576cd-5d53-4f20-8bc5-8a907f8a63a5.png"  width="80%">
+
+
+
+# 실행 방법
+**1)** src 폴더에 코드 파일을 넣고 data 파일에 data 파일을 넣는다.  
+**2)** l 키를 눌러 data를 load 한 다음, d 키를 눌러서 정보를 화면에 그리고  
+   s 키를 눌러서 게임을 시작한다.  
+**3)** 오른쪽, 왼쪽 방향키를 이용하여 밑의 선분을 움직여 게임을 한다.   
+**4)** q 키를 누른다면 메모리가 해제되고 프로그램이 종료된다.  
+
+# 실행 영상
 https://user-images.githubusercontent.com/63230463/152848315-5f7eba74-b68b-4fce-868f-79bdb472266e.mp4
 
-a) data load 화면
-![image](https://user-images.githubusercontent.com/63230463/152848584-096b71ce-2409-4d5b-9aa4-b8d8cb358c57.png)
 
-b) data를 받아 화면에 그린 결과(‘d’ 누름)
- 
-c) s 를 눌러 게임을 시작한다.
- 
-d) 게임 진행중인 화면
- 
-e) 게임 오버가 된 최종 화면
  
