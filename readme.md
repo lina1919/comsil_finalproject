@@ -8,6 +8,8 @@
 
 
 
+
+
 # 실행 방법
 **1)** src 폴더에 코드 파일을 넣고 data 파일에 data 파일을 넣는다.  
 **2)** l 키를 눌러 data를 load 한 다음, d 키를 눌러서 정보를 화면에 그리고  
@@ -16,7 +18,8 @@
 **4)** q 키를 누른다면 메모리가 해제되고 프로그램이 종료된다.  
 
 # 실행 영상
-https://user-images.githubusercontent.com/63230463/152848315-5f7eba74-b68b-4fce-868f-79bdb472266e.mp4
+https://user-images.githubusercontent.com/63230463/152933574-1ad8b94e-5312-4342-adcc-18c58887bef4.mp4
+
 
 
  
